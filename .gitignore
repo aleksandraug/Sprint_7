@@ -2,10 +2,6 @@ target/
 build/
 
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-!**/src/main/**/build/
-!**/src/test/**/build/
 !target/allure-results/
 !target/allure-results/**
 
