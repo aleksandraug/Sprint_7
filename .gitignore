@@ -2,8 +2,8 @@ target/
 build/
 
 !.mvn/wrapper/maven-wrapper.jar
-!target/allure-results/
-!target/allure-results/**
+!allure-results/
+!allure-results/**
 
 ### IntelliJ IDEA ###
 .idea/
